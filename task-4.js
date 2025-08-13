@@ -25,3 +25,4 @@ function findLongestWord(sentenseArray){
 
 const result = findLongestWord(sentenseArray);
 console.log(result);
+
